@@ -20849,5 +20849,21 @@
       "Exotic Quantum Alignment Unit": 64,
       "Exotic Standard Frame L": 1
     }
+  },
+  "Stasis Weapon XS": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 40,
+    "outputQuantity": 1,
+    "time": 4050,
+    "byproducts": {},
+    "industry": "Advanced Assembly Line XS",
+    "input": {
+      "Uncommon LED": 1,
+      "Advanced LED": 1,
+      "Rare Optics": 1,
+      "Rare Magnetic Rail": 1,
+      "Rare Reinforced Frame": 1
+    }
   }
 }
