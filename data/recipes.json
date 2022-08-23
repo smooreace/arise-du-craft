@@ -20857,7 +20857,7 @@
     "outputQuantity": 1,
     "time": 4050,
     "byproducts": {},
-    "industry": "Advanced Assembly Line XS",
+    "industry": "Assembly Line XS",
     "input": {
       "Uncommon LED": 1,
       "Advanced LED": 1,
